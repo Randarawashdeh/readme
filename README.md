@@ -89,7 +89,7 @@ Now app ready to use
 
 ## User Story <a name = "#user_story"></a>
 
-Your trello board link
+trello board 
 <a href='https://trello.com/b/8Ic3CE2C/erorrs-makers'>Trello</a>
 
 ## Data Flow <a name = "#data_flow"></a>
