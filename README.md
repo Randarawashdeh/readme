@@ -1,7 +1,7 @@
 # readme
 <p align="center">
 <a href="https://www.meraki-academy.org" target="_blank" rel="noopener noreferrer">
- <img width="200px" height="100px" src="/logo192.png" alt="Project logo">
+ <img width="100px" height="100px" src="/logo192.png" alt="Project logo">
  </a>
 </p>
 
