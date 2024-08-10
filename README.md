@@ -1,7 +1,7 @@
 # readme
 <p align="center">
 <a href="https://www.meraki-academy.org" target="_blank" rel="noopener noreferrer">
- <img width="100px" height="100px" src="/logo192.png" alt="Project logo">
+ <img width="200px" height="100px" src="/logo192.png" alt="Project logo">
  </a>
 </p>
 
@@ -78,7 +78,7 @@ Now app ready to use
 
 - You  have to register to navigate our web app
 - You can click on the **register** tab provided in the navigation bar to view the home section
-- You can click on the **Add to cart** button to add this product to your cart but you have to be one of our users, so you should create an account
+- You can log in as a patient to view medical reports and make an appointment.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -90,12 +90,13 @@ Now app ready to use
 ## User Story <a name = "#user_story"></a>
 
 Your trello board link
-<a href=''>Trello</a>
+<a href='https://trello.com/b/8Ic3CE2C/erorrs-makers'>Trello</a>
 
 ## Data Flow <a name = "#data_flow"></a>
 
-<img width=200px height=200px src="https://cacoo.com/assets/site/img/templates/screenshots/er-database-diagram.png" alt="Diagram"></a>
+<img width=200px height=200px src="https://trello.com/1/cards/669a8c2b8fe5bff26f72b9bf/attachments/669db779f1b254f261100997/previews/669db779f1b254f261100c21/download/Untitled.png" alt="Diagram"></a>
 
 ## ⚠️ Guided By <a name = "guided_by"></a>
 
 This project is guided by ©️ **[MERAKI Academy](https://www.meraki-academy.org)**
+ش
