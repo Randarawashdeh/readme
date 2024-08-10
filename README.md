@@ -54,12 +54,11 @@ git clone https://github.com/ERORRS-MAKERS/MERAKI_Academy_Project_5.git
 
 ```
 npm i
-```
+
 npm i pg
-```
 npm i node
-```
 npm i express
+
 ```
 3. Run server using git bash inside backend folder
 
