@@ -76,8 +76,8 @@ Now app ready to use
 
 ## 🎈 Usage <a name="usage"></a>
 
-- You  have to register to navigate our web app
-- You can click on the **register** tab provided in the navigation bar to view the home section
+- you can logIn as a **guest** to view the home section
+
 - You can log in as a patient to view medical reports and make an appointment.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
